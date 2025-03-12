@@ -5,30 +5,25 @@ using ExemploFundamentos.Common.Models;
 
 
 
+// List<string> listaString = new List<string>();
+
+// listaString.Add("SP");
+// listaString.Add("BA");
+// listaString.Add("MG");
+// listaString.Add("RJ");
+
+// System.Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+// listaString.Add("SC");
+
+// System.Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+// listaString.Remove("MG");
+
+// System.Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//------------------------------------------------------------------------------------------------------------
 
 
 
