@@ -2,7 +2,7 @@
 using ExemploFundamentos.Common.Models;
 
 
-
+/// summary
 
 
 // List<string> listaString = new List<string>();
@@ -154,7 +154,7 @@ System.Console.WriteLine("O programa se encerrou");
 */
 
 
- 
+
 //-----------------------------------------
 // int soma = 0, numero = 0;
 
@@ -378,7 +378,7 @@ System.Console.WriteLine("O programa se encerrou");
 //     Console.WriteLine("Desculpa. Não temos a quantidade desejada em estoque.");
 // }
 
- 
+
 //-------------------------------------------------------------------------------------
 
 
