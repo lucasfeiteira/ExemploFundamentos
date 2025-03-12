@@ -1,11 +1,98 @@
 ﻿
 using ExemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
 
-pessoa1.Nome = "Buta";
-pessoa1.Idade = 20;
-pessoa1.Apresentar();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int[] arrayInteiros = new int[4];
+
+//       arrayInteiros[0] = 72;
+//       arrayInteiros[1] = 64;
+//       arrayInteiros[2] = 50;
+//       arrayInteiros[3] = 50;
+
+
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+
+
+// //Array.Resize(ref arrayInteiros, arrayInteiros.Length *2);
+
+// System.Console.WriteLine("Percorrendo o Array com FOR");
+
+// for (int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//       System.Console.WriteLine($"Posicao N {contador} - {arrayInteiros[contador]}");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// System.Console.WriteLine("Percorrendo o Array com FOREACH");
+
+// int contadorForeach = 0;
+// foreach (int valor in arrayInteiros)
+// {
+//       System.Console.WriteLine($"Posicao N {contadorForeach} - {valor}");
+//       contadorForeach++;
+// }
+
+
+
+
+
+
+
+
+// ----------------------------------------------------
+//
+
+// Pessoa pessoa1 = new Pessoa();
+
+// pessoa1.Nome = "Buta";
+// pessoa1.Idade = 20;
+// pessoa1.Apresentar();
 
 
 
